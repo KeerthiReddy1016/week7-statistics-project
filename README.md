@@ -13,4 +13,3 @@ This project contains ALL requirements from the internship task images:
 - Heatmap
 - Multiple subplot charts
 
-Replace `data.csv` with your real dataset for actual analysis.
