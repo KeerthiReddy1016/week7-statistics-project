@@ -1,0 +1,20 @@
+Descriptive Statistics:
+       Marketing_Spend         Sales
+count       300.000000    300.000000
+mean       4991.677161  19871.060104
+std        1476.290533   5769.707105
+min         138.098990   5170.132999
+25%        3975.131090  15773.568882
+50%        5088.829196  19887.411968
+75%        5939.986582  23698.025049
+max       10779.097236  38473.284851
+
+Correlation Matrix:
+                 Marketing_Spend     Sales
+Marketing_Spend         1.000000 -0.040505
+Sales                  -0.040505  1.000000
+
+T-test:
+ t-statistic = -0.8343332052572302, p-value = 0.40476156051716916
+
+95% Confidence Interval for Sales Mean: (19215.51479630012, 20526.605411396165)
